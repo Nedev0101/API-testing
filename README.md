@@ -1,4 +1,4 @@
-# Books Requests API-tests;
+# Books Requests API-tests
 
 API status;
 Register API client;
