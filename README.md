@@ -8,6 +8,6 @@ Order book;
 Get all books orders;
 Get John's order;
 Update John's order;
-Delete order;
+Delete order; 
 
 
